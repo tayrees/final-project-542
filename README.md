@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Visit https://is542-final-trees.web.app for the hosted website
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
